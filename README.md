@@ -1,5 +1,5 @@
 # `grawk`
-Simple [awk](https://en.wikipedia.org/wiki/AWK) script for generating simple ASCII graphs.
+Simple [Awk](https://en.wikipedia.org/wiki/AWK) script for generating simple ASCII graphs.
 
 
 This script needs file (or input data) with following structure:

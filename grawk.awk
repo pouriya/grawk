@@ -117,7 +117,7 @@ function ticks(i) { # Create tick marks for x and y axes
 	}
 }
 
-function label () { # Center under x axis 
+function label() { # Center under x axis 
 	splot(int((wid + ox - length(botlab))/2), 0, botlab)
 }
 
